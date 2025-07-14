@@ -74,36 +74,59 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🔧 Tech Arsenal
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
+### Frontend Mastery
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=4" alt="Frontend Skills" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### Backend
+### Backend Expertise
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4" alt="Backend Skills" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### DevOps
+### DevOps & Infrastructure
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vercel,render,postman,git&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&perline=4" alt="DevOps Skills" />
 </div>
 
 </td>
 </tr>
 </table>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### Database & Storage
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" alt="Database Skills" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### Tools & Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,linux&perline=5" alt="Tools Skills" />
+</div>
+
+</td>
+</tr>
+</table>
+
+
 
 <br>
 
@@ -111,6 +134,15 @@
 
 - **B.Tech in Computer Science & Information Technology**
   - MVGR College of Engineering, Vizianagaram (2022 - 2026)
+
+<br>
+
+## 💡 What I'm Learning Now
+
+- Advanced System Design
+- Cloud Architecture
+- Performance Optimization Techniques
+- Full Stack Web Development
 
 <br>
 
