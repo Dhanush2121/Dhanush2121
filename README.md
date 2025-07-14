@@ -48,11 +48,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<h3>📈 Statistics</h3>
+<h3>📈 GitHub Statistics</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
 </td>
 <td align="center" width="50%">
-<h3>🔥 Streak</h3>
+<h3>🔥 Contribution Streak</h3>
 <img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </td>
 </tr>
@@ -72,11 +72,14 @@
 
 ## 📆 Monthly Contribution Overview
 
+> _Static fallback preview. Live chart requires GitHub activity graph plugin access._
+
 <div align="center">
   <img src="https://i.imgur.com/OxE3tW7.png" alt="Monthly Contribution Graph" width="90%" />
 </div>
 
 <br>
+
 
 
 
