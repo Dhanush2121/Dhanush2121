@@ -48,11 +48,12 @@
     <tr>
       <td width="50%">
         <h3 align="center">Statistics</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" alt="GitHub Stats" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" />
+  <br><br>
       </td>
       <td width="50%">
         <h3 align="center">Streak</h3>
-        <img align="center" src="https://streak-stats.demolab.com/?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -61,15 +62,13 @@
 <br>
 
 <div align="center">
-  <h3>Trophy Showcase</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="90%" alt="Trophy Collection" />
+  <h3>🏆 Trophy Showcase</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
-<br>
-
 <div align="center">
-  <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=radical&bg_color=0D1117&color=F85D7F&line=9FDBF8&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=radical&hide_border=true" />
 </div>
 
 <br>
