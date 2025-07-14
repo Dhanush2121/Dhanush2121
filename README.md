@@ -26,7 +26,7 @@
 
   🔭 Currently working on a real-time chat app with group messaging and cloud deployment.
 
-  🌱 Learning: System Design, Advanced React, DevOps fundamentals.
+  🌱 Learning: System Design, Advanced React, ML fundamentals.
 
   💬 Ask me about React.js, Node.js, MongoDB, or integration/deployment.
 
@@ -82,7 +82,7 @@
 
 ### Frontend Mastery
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=4" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=4" alt="Frontend Skills" />
 </div>
 
 </td>
@@ -90,7 +90,7 @@
 
 ### Backend Expertise
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,express&perline=4" alt="Backend Skills" />
 </div>
 
 </td>
@@ -98,7 +98,7 @@
 
 ### DevOps & Infrastructure
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&perline=4" alt="DevOps Skills" />
+<img src="https://skillicons.dev/icons?i=aws,docker&perline=4" alt="DevOps Skills" />
 </div>
 
 </td>
@@ -111,7 +111,7 @@
 
 ### Database & Storage
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=4" alt="Database Skills" />
 </div>
 
 </td>
@@ -119,7 +119,7 @@
 
 ### Tools & Platforms
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,linux&perline=5" alt="Tools Skills" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux&perline=5" alt="Tools Skills" />
 </div>
 
 </td>
