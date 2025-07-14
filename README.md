@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2121&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%"/>
 </div>
 
 <br>
@@ -48,11 +48,11 @@
     <tr>
       <td width="50%">
         <h3 align="center">Statistics</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=000000" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td width="50%">
         <h3 align="center">Streak</h3>
-        <img align="center" src="https://streak-stats.demolab.com?user=Dhanush2121&theme=midnight-purple&hide_border=true&background=000000" alt="Streak Stats" />
+        <img align="center" src="https://streak-stats.demolab.com/?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -62,17 +62,18 @@
 
 <div align="center">
   <h3>Trophy Showcase</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=onedark&no-frame=true&row=1&column=7" width="90%" alt="Trophy Collection" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="90%" alt="Trophy Collection" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&bg_color=000000&color=F857A6&line=E23E57&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=radical&bg_color=0D1117&color=F85D7F&line=9FDBF8&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
 </div>
 
 <br>
+
 
 ## 🔧 Tech Arsenal
 
