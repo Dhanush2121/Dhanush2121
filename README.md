@@ -38,38 +38,45 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
 
-### 🧠 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+<br>
 
----
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📈 Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🔥 Streak</h3>
-      <img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+<h3>📈 Statistics</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
+</td>
+<td align="center" width="50%">
+<h3>🔥 Streak</h3>
+<img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</td>
+</tr>
 </table>
-
----
-
-### 🏆 Trophy Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" width="90%" />
-
----
-
-### 📆 Monthly Contribution Overview
-
-<img src="https://fakeimg.pl/800x250/0d1117/ffffff/?text=Monthly+Contributions:+Jan%20(2)%20%7C%20Feb%20(5)%20%7C%20Mar%20(8)%20%7C%20Apr%20(4)%20%7C%20May%20(3)%20%7C%20Jun%20(9)%20%7C%20Jul%20(16)&font=lobster" alt="Monthly Contribution Graph" width="90%" />
 
 </div>
 
+---
+
+## 🏆 Trophy Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" width="90%" />
+</div>
+
+---
+
+## 📆 Monthly Contribution Overview
+
+<div align="center">
+  <img src="https://i.imgur.com/OxE3tW7.png" alt="Monthly Contribution Graph" width="90%" />
+</div>
+
+<br>
 
 
 
