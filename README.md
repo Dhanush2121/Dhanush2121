@@ -52,7 +52,7 @@
       </td>
       <td width="50%">
         <h3 align="center">🔥 Streak</h3>
-        <img src="https://streak-stats.demolab.com/?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -62,14 +62,14 @@
 
 <div align="center">
   <h3>🏆 Trophy Showcase</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" alt="Trophy Showcase" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📅 Monthly Contribution Graph</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush2121&mode=monthly&theme=radical&hide_border=true" alt="Monthly Stats" />
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
 
 <br>
