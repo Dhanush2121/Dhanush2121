@@ -156,9 +156,8 @@
 
 ## 💡 What I'm Learning Now
 
-- Advanced System Design
-- Cloud Architecture
-- Performance Optimization Techniques
+- Data Analytics
+- AI Bots and ML 
 - Full Stack Web Development
 
 <br>
