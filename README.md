@@ -35,62 +35,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush2121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="60%" alt="Top Languages"/>
-
-  <br><br>
-
-  <!-- Stats and Streak -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>📈 Statistics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=Dhanush2121&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔥 Streak</h3>
-        <img src="https://streak-stats.demolab.com?user=Dhanush2121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-## 🏆 Trophy Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush2121&theme=radical&no-frame=true&row=1&column=7" width="90%" />
-</div>
-
----
-
-## 📆 Monthly Contribution Overview
-
-<!-- Real-time GitHub Activity Graph -->
-<div align="center">
-
-  <!-- LIVE GRAPH (may break if GitHub plugin limits access) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=9FDBF8&point=FFFFFF" width="90%" alt="GitHub Contribution Graph" />
-
-  <!-- OPTIONAL STATIC FALLBACK (if the above fails) -->
-  <!--
-  <img src="https://i.imgur.com/OxE3tW7.png" alt="Monthly Contribution Graph" width="90%" />
-  -->
-
-</div>
-
-<br>
-
-
-
-
-
 ## 🔧 Tech Arsenal
 
 <table align="center">
