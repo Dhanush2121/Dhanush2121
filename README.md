@@ -77,7 +77,7 @@ Currently diving deep into microservices architecture and React patterns while e
 ## 🚀 What I'm Currently Working On
 
 ```javascript
-const Dhanush = {
+const HAI = {
     education: "B.Tech CSIT @ MVGR (2022-2026)",
     currentFocus: [
         "Enhancing microservices architecture",
