@@ -111,7 +111,7 @@ const HAI = {
 
 <div align="center">
   
-[![Abhinay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Dhanush2121)
+[![Dhanush GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush2121&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Dhanush2121)
 
 </div>
 
@@ -120,7 +120,7 @@ const HAI = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/javvadhi-dhanush-1854a2381" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhanushj217@gmail.com" target="_blank">
