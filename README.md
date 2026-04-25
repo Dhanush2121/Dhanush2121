@@ -78,7 +78,6 @@ Currently diving deep into microservices architecture and React patterns while e
 
 ```javascript
 const HAI = {
-    education: "B.Tech CSIT @ MVGR (2022-2026)",
     currentFocus: [
         "Enhancing microservices architecture",
         "Advanced React patterns & hooks",
@@ -94,7 +93,6 @@ const HAI = {
 ## 🎓 Education
 
 - **B.Tech in Computer Science & Information Technology**
-  - MVGR College of Engineering, Vizianagaram (2022 - 2026)
 
 <br>
 
